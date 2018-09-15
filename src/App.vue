@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <FirstPage msg="C'est une prop?"/>
+    <FirstPage/>
     <!-- <img alt="Vue logo" src="./assets/Tricolore.jpg"> -->
   </div>
 </template>
