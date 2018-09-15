@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <!-- <img alt="Vue logo" src="./assets/Tricolore.jpg"> -->
     <FirstPage msg="C'est une prop?"/>
+    <!-- <img alt="Vue logo" src="./assets/Tricolore.jpg"> -->
   </div>
 </template>
 

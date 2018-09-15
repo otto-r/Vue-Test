@@ -10,7 +10,7 @@ export default {
   name: 'FirstPage',
   data(){
     return{
-      LaMarseillaise : 'La Marseillaise 🎵'
+      LaMarseillaise : 'La Marseillaise 🎵',
     }
   }
 }
